@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <group
+        android:scaleX="0.62"
+        android:scaleY="0.62"
+        android:translateX="4.56"
+        android:translateY="4.56">
+        <!-- Outer Neon Prism Frame / Cat-Ear VTuber Crown -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M4,4 L9,8 L15,8 L20,4 L19,14 C19,18.4 15.8,21 12,21 C8.2,21 5,18.4 5,14 Z" />
+        <!-- Inner Face Core -->
+        <path
+            android:fillColor="#161826"
+            android:pathData="M5.8,6.5 L9.4,9.4 L14.6,9.4 L18.2,6.5 L17.4,13.8 C17.4,17.2 15,19.4 12,19.4 C9,19.4 6.6,17.2 6.6,13.8 Z" />
+        <!-- Glowing Magenta Eyes & Starlight Spark -->
+        <path
+            android:fillColor="#FF2E93"
+            android:pathData="M8.2,12.5 A1.3,1.6 0 1,0 10.8,12.5 A1.3,1.6 0 1,0 8.2,12.5 Z M13.2,12.5 A1.3,1.6 0 1,0 15.8,12.5 A1.3,1.6 0 1,0 13.2,12.5 Z" />
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M12,4.5 L12.8,6.8 L15,7.5 L12.8,8.2 L12,10.5 L11.2,8.2 L9,7.5 L11.2,6.8 Z" />
+        <!-- Smile Curve -->
+        <path
+            android:fillColor="#7C4DFF"
+            android:pathData="M10.2,16.0 Q12,17.7 13.8,16.0 L13.2,15.4 Q12,16.6 10.8,15.4 Z" />
+    </group>
+</vector>

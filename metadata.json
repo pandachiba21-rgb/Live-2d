@@ -1,0 +1,11 @@
+{
+  "name": "Lumina Live2D Studio",
+  "description": "Studio editor karakter VTuber Live2D interaktif dengan rigging mesh mudah, tutorial lengkap, dan pelacakan ekspresi wajah real-time via kamera.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

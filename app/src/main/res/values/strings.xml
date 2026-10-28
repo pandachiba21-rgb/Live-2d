@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lumina Live2D Studio</string>
+    <string name="auth_title">Lumina Live2D Studio</string>
+    <string name="auth_subtitle">Buat, rig, dan gerakkan karakter VTuber 2D Anda dengan pelacakan ekspresi wajah real-time.</string>
+    <string name="sign_in_google">Masuk dengan Google</string>
+    <string name="tab_studio">Studio Karakter</string>
+    <string name="tab_rigging">Editor Live2D</string>
+    <string name="tab_live">Live Kamera</string>
+    <string name="tab_tutorial">Panduan Lengkap</string>
+    <string name="import_photo">Impor Foto Karakter</string>
+    <string name="create_character">Buat Karakter Baru</string>
+    <string name="start_live_tracking">Mulai Kamera Real-Time</string>
+    <string name="calibrate_neutral">Kalibrasi Wajah Netral</string>
+    <string name="open_tutorial">Buka Tutorial Lengkap</string>
+</resources>
